@@ -171,7 +171,7 @@ body {
     opacity: 0;
 }
 
-.fade-in {
+.fadeIn {
     animation: 1s fadeIn forwards;
     animation-delay: 1s;
 }
